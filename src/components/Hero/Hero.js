@@ -11,7 +11,12 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis error atque, ex nemo ea accusamus aperiam laudantium, cumque praesentium harum distinctio voluptatibus hic repudiandae repellat veritatis doloribus porro culpa consequuntur?
+        Hi. I'm Bohdan, nice to meet you. 🫠 <br />
+        Fascinated with how intricate programming can be, I was quickly drawn to learn more. I started learning JavaScript and was even more
+        enthused with making websites interactive. I am
+        now spending my time building projects with React JS and
+        learning new technologies. <br />
+        Check out some of my latest projects, and download my CV...
       </SectionText>
       <Button>Download Resume</Button>
     </LeftSection>
