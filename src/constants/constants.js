@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Marvel information portal',
-    description:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam nulla perferendis deleniti est id dignissimos, eos nisi doloribus alias repellat dolorum recusandae labore sit quidem ipsa nobis, culpa adipisci. Similique?",
+    description:"Marvel information portal. Application using ReactJS, Redux and Marvel Comics API. With the functionality to choose random character from Marvel API, searching a character by name, pagination and more.",
     image: '/images/02.jpeg',
     tags: ['React', 'Redux', 'Marvel Comics API'],
     source: 'https://marvel-bt.herokuapp.com/',

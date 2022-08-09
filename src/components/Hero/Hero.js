@@ -7,12 +7,12 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To<br />
-        My Personal Portfolio
+        Hello and welcome to<br />
+        my personal portfolio
       </SectionTitle>
       <SectionText>
-        Hi. I'm Bohdan, nice to meet you. 🫠 <br />
-        Fascinated with how intricate programming can be, I was quickly drawn to learn more. I started learning JavaScript and was even more
+        I'm Bohdan Tokmach, but you can call me BT. 🤭 <br />
+        I started learning JavaScript and was even more
         enthused with making websites interactive. I am
         now spending my time building projects with React JS and
         learning new technologies. <br />
