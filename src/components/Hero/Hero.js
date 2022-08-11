@@ -1,4 +1,4 @@
-import React from 'react';
+import Link from 'next/link';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
@@ -18,7 +18,11 @@ const Hero = () => (
         learning new technologies. <br />
         Check out some of my latest projects, and download my CV...
       </SectionText>
-      <Button>Download Resume</Button>
+      <Link href='/assets/Bohdan-Tokmach-CV-FrontEnd-developer.pdf' target='_blank' passHref>
+        <a target="_blank" rel="noreferrer">
+          <Button>Download Resume</Button>
+        </a>
+      </Link>
     </LeftSection>
   </Section>
 );
